@@ -1,17 +1,20 @@
 package EntryTest;
 
 public class Question_10 {
-    /* With SQL, how do you select all columns from a table "Person"?
+    /* How many branches could have a conditional operator?
 
-       1) SELECT [all] FROM Persons  ️
-       2) SELECT * FROM Persons ✔️
-       3) SELECT Persons
-       4) SELECT * .Persons
+       1) none ️
+       2) one ️
+       3) three
+       4) two ✔
 
 
        Detailed response:
 
-       Звездочка (*) - это символ подстановки в SQL, обозначающий "все столбцы". Таким образом, используя команду "SELECT *",
-       вы даете указание базе данных вернуть все столбцы из указанной таблицы, в данном случае таблицы "Persons".
+       Условный оператор может иметь две ветви: одну для условия "true" и одну для условия "false".
+       Условный оператор, также известный как тернарный оператор, является сокращенным способом записи простого оператора if-else.
+       Он имеет следующий синтаксис:
+       условие ? выражение1 : выражение2
+
     */
 }
