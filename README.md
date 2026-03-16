@@ -1,5 +1,5 @@
 <h1 align>Epam Java Online Program 🖐</h1>
-<h2>🟠Tasks and their answers from Entry Test Epam Java</h2>
+<h2>🟠 Tasks and their answers from Entry Test Epam Java</h2>
 <h3>🟠 My personal learning experience.</h3>
 <h3>🟠 I don't recommend copying my solutions - you won't learn anything that way.</h2>
 <h3><a href="https://learn.epam.com"><strong>Epam Learn »</strong></a></h3>
